@@ -1366,6 +1366,13 @@
       "url": "https://www.seacoastmoms.com",
       "addedBy": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "stone-zoo",
+      "name": "Stone Zoo",
+      "url": "https://www.zoonewengland.org/stone-zoo/",
+      "addedBy": "slack",
+      "addedAt": "2026-05-30"
     }
   ]
 }
