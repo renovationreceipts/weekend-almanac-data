@@ -1,8 +1,8 @@
 {
   "_meta": {
     "generatedFrom": "seed",
-    "lastRun": null,
-    "lastSlackTs": null,
+    "lastRun": "2026-05-30",
+    "lastSlackTs": "1780140702.194789",
     "note": "Managed by the Weekend Almanac agent. items[] feed the ranked pool."
   },
   "items": [
@@ -334,6 +334,24 @@
       "source": "seed-example",
       "note": "Rides, livestock barns, fair food, demolition derby. (Example event — future-dated, shows on its weekend.)",
       "url": "#"
+    },
+    {
+      "id": "alnoba",
+      "name": "Alnoba — Lewis Family Sculpture Park",
+      "cat": "Sculpture park",
+      "catKey": "park",
+      "env": "out",
+      "lat": 42.9285,
+      "lng": -71.0125,
+      "rating": null,
+      "n": null,
+      "ages": "open trails + big outdoor sculptures to walk among",
+      "note": "Outdoor sculpture park on wooded trails in Kensington — 30+ monumental works, room for the girls to roam. Often by appointment / event-based, so check hours before going.",
+      "url": "https://alnoba.org",
+      "kind": "place",
+      "status": "pending",
+      "source": "slack",
+      "addedAt": "2026-05-30"
     }
   ]
 }
