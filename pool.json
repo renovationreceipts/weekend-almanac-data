@@ -1287,6 +1287,24 @@
       "status": "active",
       "source": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "hampton-falls-farmers-market",
+      "name": "Hampton Falls Farmers Market",
+      "cat": "Farmers Market",
+      "catKey": "farm",
+      "env": "out",
+      "lat": 42.9164147,
+      "lng": -70.8646837,
+      "rating": null,
+      "n": null,
+      "ages": "Great for all ages 3–7",
+      "note": "Seasonal farmers market in the Seacoast area with fresh local produce, crafts, and family-friendly browsing. Check the market calendar for exact dates and times.",
+      "url": "https://www.visitnh.gov/things-to-do/food-drink/farmers-markets",
+      "kind": "place",
+      "status": "active",
+      "source": "slack",
+      "addedAt": "2026-05-30"
     }
   ],
   "sources": [
