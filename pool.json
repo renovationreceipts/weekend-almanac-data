@@ -2,7 +2,7 @@
   "_meta": {
     "generatedFrom": "seed",
     "lastRun": "2026-05-30",
-    "lastSlackTs": "1780148735.863959",
+    "lastSlackTs": "1780150602.708299",
     "note": "Hands-off: everything in items[] is live (no pending state). sources[] are crawled weekly for events. The agent rewrites this each Thursday."
   },
   "items": [
