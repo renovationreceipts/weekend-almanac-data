@@ -1359,6 +1359,13 @@
       "url": "https://www.seacoastkidscalendar.com/",
       "addedBy": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "seacoast-moms",
+      "name": "Seacoast Moms",
+      "url": "https://www.seacoastmoms.com",
+      "addedBy": "slack",
+      "addedAt": "2026-05-30"
     }
   ]
 }
