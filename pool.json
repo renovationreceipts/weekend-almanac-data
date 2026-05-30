@@ -1305,6 +1305,24 @@
       "status": "active",
       "source": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "friendly-farm",
+      "name": "Friendly Farm",
+      "cat": "Farm animals",
+      "catKey": "farm",
+      "env": "out",
+      "lat": 42.9138609,
+      "lng": -72.0942856,
+      "rating": null,
+      "n": null,
+      "ages": "3–7",
+      "note": "Small, relaxed farm-animal park perfect for younger kids; casual drop-in experience. Admission ~$14.",
+      "url": "https://www.friendlyfarm.com",
+      "kind": "place",
+      "status": "active",
+      "source": "slack",
+      "addedAt": "2026-05-30"
     }
   ],
   "sources": [
