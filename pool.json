@@ -1391,6 +1391,13 @@
       "url": "https://www.zoonewengland.org/stone-zoo/",
       "addedBy": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "great-island-5k",
+      "name": "Great Island 5K",
+      "url": "https://www.greatisland5k.org",
+      "addedBy": "slack",
+      "addedAt": "2026-05-30"
     }
   ]
 }
