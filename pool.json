@@ -1287,6 +1287,24 @@
       "status": "active",
       "source": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "york-s-wild-kingdom",
+      "name": "York's Wild Kingdom",
+      "cat": "Zoo",
+      "catKey": "park",
+      "env": "out",
+      "lat": 43.1758773,
+      "lng": -70.6157074,
+      "rating": null,
+      "n": null,
+      "ages": "3–7",
+      "note": "Full-day family zoo and amusement park with animals and rides. Check hours seasonally as it operates spring–fall.",
+      "url": "https://www.yorkswildkingdom.com",
+      "kind": "place",
+      "status": "active",
+      "source": "slack",
+      "addedAt": "2026-05-30"
     }
   ],
   "sources": [
