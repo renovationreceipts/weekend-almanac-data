@@ -1352,6 +1352,13 @@
       "url": "https://alnoba.org/",
       "addedBy": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "seacoast-kids-calendar",
+      "name": "Seacoast Kids Calendar",
+      "url": "https://www.seacoastkidscalendar.com/",
+      "addedBy": "slack",
+      "addedAt": "2026-05-30"
     }
   ]
 }
