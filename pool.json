@@ -2,7 +2,7 @@
   "_meta": {
     "generatedFrom": "seed",
     "lastRun": "2026-05-30",
-    "lastSlackTs": "1780140702.194789",
+    "lastSlackTs": "1780148735.863959",
     "note": "Hands-off: everything in items[] is live (no pending state). sources[] are crawled weekly for events. The agent rewrites this each Thursday."
   },
   "items": [
@@ -1304,6 +1304,24 @@
       "start": "2026-06-02",
       "end": "2026-08-28",
       "source": "web-discovery",
+      "addedAt": "2026-05-30"
+    },
+    {
+      "id": "guinea-pig-sanctuary",
+      "name": "Guinea Pig Sanctuary",
+      "cat": "Guinea pig sanctuary",
+      "catKey": "farm",
+      "env": "mix",
+      "lat": 42.8389,
+      "lng": -71.1493,
+      "rating": null,
+      "n": null,
+      "ages": "Interactive setting with gentle guinea pigs; all three ages welcome",
+      "note": "Licensed non-profit rescue sanctuary in Salisbury, MA (~45 mi) with family play days and guided tours. Free admission, no appointments needed. Offers ESGP program for children with special needs.",
+      "url": "https://www.facebook.com/GuineaPigSanctuarySalisburyMA/",
+      "kind": "place",
+      "status": "active",
+      "source": "slack",
       "addedAt": "2026-05-30"
     }
   ],
