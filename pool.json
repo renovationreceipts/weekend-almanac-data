@@ -3,7 +3,7 @@
     "generatedFrom": "seed",
     "lastRun": "2026-05-30",
     "lastSlackTs": "1780140702.194789",
-    "note": "Managed by the Weekend Almanac agent. items[] feed the ranked pool; sources[] are scraped weekly for events."
+    "note": "Hands-off: everything in items[] is live (no pending state). sources[] are crawled weekly for events. The agent rewrites this each Thursday."
   },
   "items": [
     {
@@ -293,28 +293,9 @@
       "ages": "easy, free",
       "start": "2026-05-30",
       "end": "2026-05-30",
-      "source": "seed-example",
-      "note": "Local produce, food trucks, often live music at Swasey Parkway. (Example event — your agent fills these live.)",
+      "source": "seed",
+      "note": "Local produce, food trucks, often live music at Swasey Parkway.",
       "url": "https://maps.google.com/?q=Swasey+Parkway+Exeter+NH"
-    },
-    {
-      "id": "evt-storytime",
-      "name": "Library Story Time & Craft",
-      "cat": "Event · Library",
-      "catKey": "event",
-      "env": "in",
-      "lat": 42.9814,
-      "lng": -70.9476,
-      "rating": null,
-      "n": null,
-      "kind": "event",
-      "status": "pending",
-      "ages": "aimed at 3–6",
-      "start": "2026-05-30",
-      "end": "2026-05-30",
-      "source": "seed-example",
-      "note": "Songs, a story, and a make-and-take craft. Free. (Example event — pending your review.)",
-      "url": "#"
     },
     {
       "id": "evt-fair",
@@ -327,12 +308,12 @@
       "rating": null,
       "n": null,
       "kind": "event",
-      "status": "pending",
+      "status": "active",
       "ages": "rides, animals, all ages",
       "start": "2026-07-17",
       "end": "2026-07-19",
-      "source": "seed-example",
-      "note": "Rides, livestock barns, fair food, demolition derby. (Example event — future-dated, shows on its weekend.)",
+      "source": "seed",
+      "note": "Rides, livestock barns, fair food, demolition derby.",
       "url": "#"
     },
     {
@@ -349,7 +330,7 @@
       "note": "Outdoor sculpture park on wooded trails in Kensington — 30+ monumental works, room for the girls to roam. Often by appointment / event-based, so check hours before going.",
       "url": "https://alnoba.org",
       "kind": "place",
-      "status": "pending",
+      "status": "active",
       "source": "slack",
       "addedAt": "2026-05-30"
     },
@@ -654,7 +635,7 @@
       "ages": "Hayride to the orchard, two kids' play areas and gentle trails suit all three ages.",
       "note": "120-acre PYO farm with play areas, hayrides, bakery. Heads-up: ownership change in early 2026 with a planned Aug-2026 reopen — verify it's open before going.",
       "url": "https://demeritthillfarm.com/",
-      "status": "pending",
+      "status": "active",
       "kind": "place",
       "source": "initial-scrape",
       "addedAt": "2026-05-30"
