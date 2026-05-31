@@ -1305,6 +1305,24 @@
       "status": "active",
       "source": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "amesbury-town-park",
+      "name": "Amesbury Town Park",
+      "cat": "Park",
+      "catKey": "park",
+      "env": "out",
+      "lat": 42.8533154,
+      "lng": -70.9405257,
+      "rating": null,
+      "n": null,
+      "ages": "3–7",
+      "note": "Big municipal park with playground, splash pad (seasonal), skate park, and open fields. Free entry; parking can be tight on busy days.",
+      "url": "https://www.amesburyma.gov/Facilities/Facility/Details/Town-Park-18",
+      "kind": "place",
+      "status": "active",
+      "source": "slack",
+      "addedAt": "2026-05-31"
     }
   ],
   "sources": [
