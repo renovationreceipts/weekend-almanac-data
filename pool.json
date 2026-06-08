@@ -1573,6 +1573,13 @@
       "url": "https://www.chunkys.com/",
       "addedBy": "slack",
       "addedAt": "2026-06-08"
+    },
+    {
+      "id": "prescott-park",
+      "name": "Prescott Park",
+      "url": "https://www.prescottpark.org",
+      "addedBy": "slack",
+      "addedAt": "2026-06-08"
     }
   ]
 }
