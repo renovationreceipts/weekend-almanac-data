@@ -1141,7 +1141,9 @@
       "ageMax": 99,
       "start": "2026-05-30",
       "end": "2026-10-29",
-      "days": ["Thu"],
+      "days": [
+        "Thu"
+      ],
       "source": "seed",
       "note": "Every Thursday 2:30–6 PM (closes 5:30 after Oct 1), May–October at Swasey Parkway. Local produce, food trucks, often live music.",
       "url": "https://maps.google.com/?q=Swasey+Parkway+Exeter+NH"
@@ -1331,7 +1333,10 @@
       "ageMax": 5,
       "start": "2026-06-02",
       "end": "2026-08-28",
-      "days": ["Tue", "Thu"],
+      "days": [
+        "Tue",
+        "Thu"
+      ],
       "source": "web-discovery",
       "note": "Read a story then meet shelter animals at the NH SPCA humane education room in Stratham (~6 mi). Tuesdays & Thursdays at 10:45 AM all summer. Free; registration recommended.",
       "url": "https://nhspca.org/"
@@ -1353,7 +1358,12 @@
       "ageMax": 12,
       "start": "2026-06-20",
       "end": "2026-08-10",
-      "days": ["Thu", "Fri", "Sat", "Sun"],
+      "days": [
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
       "source": "web-discovery",
       "note": "2026 Prescott Park signature musical: Disney's Freaky Friday performed outdoors on the Piscataqua waterfront. Thu–Sun at 7 PM, June 20–Aug 10; matinees July 4 & July 26 at 1 PM. Bring a blanket/chairs. $20 suggested donation — no one turned away.",
       "url": "https://www.prescottpark.org/event/disneys-freaky-friday",
@@ -1398,7 +1408,9 @@
       "ageMax": 12,
       "start": "2026-06-07",
       "end": "2026-12-31",
-      "days": ["Sun"],
+      "days": [
+        "Sun"
+      ],
       "source": "seacoast-science",
       "note": "Every Sunday 9–10 AM before general public opens — quieter, calmer access to touch tanks and exhibits. Regular SSC admission applies.",
       "url": "https://www.seacoastsciencecenter.org/",
@@ -1547,6 +1559,13 @@
       "url": "https://www.gsrs.com/calendar",
       "addedBy": "slack",
       "addedAt": "2026-05-30"
+    },
+    {
+      "id": "cinemagic-sensory-friendly-showtimes",
+      "name": "Cinemagic Sensory-Friendly Showtimes",
+      "url": "https://www.cinemagic.com/",
+      "addedBy": "slack",
+      "addedAt": "2026-06-08"
     }
   ]
 }
