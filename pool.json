@@ -1459,6 +1459,26 @@
       "note": "Monthly 2nd-Saturday farm dinner: fried chicken, local food vendors, live music 5–7:30 PM. Grounds open 4–8 PM; food is paid.",
       "url": "https://www.vernonfamilyfarm.com/events",
       "addedAt": "2026-06-04"
+    },
+    {
+      "id": "cinderella-at-prescott-park-2026-06-19",
+      "name": "Cinderella at Prescott Park",
+      "cat": "Event · Theater",
+      "catKey": "event",
+      "env": "out",
+      "lat": 43.0751306,
+      "lng": -70.7601826,
+      "rating": null,
+      "n": null,
+      "ages": "All ages",
+      "note": "Outdoor summer theater production in a beautiful historic park. Evening performances Thu–Sun at 7 pm, plus matinees July 5 & 25.",
+      "url": "https://www.prescottpark.org",
+      "kind": "event",
+      "status": "active",
+      "start": "2026-06-19",
+      "end": "2026-08-09",
+      "source": "slack",
+      "addedAt": "2026-06-08"
     }
   ],
   "sources": [
