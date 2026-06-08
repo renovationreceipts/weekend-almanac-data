@@ -1566,6 +1566,13 @@
       "url": "https://www.cinemagic.com/",
       "addedBy": "slack",
       "addedAt": "2026-06-08"
+    },
+    {
+      "id": "chunky-s-cinema-sensory-friendly-programs",
+      "name": "Chunky's Cinema Sensory-Friendly Programs",
+      "url": "https://www.chunkys.com/",
+      "addedBy": "slack",
+      "addedAt": "2026-06-08"
     }
   ]
 }
