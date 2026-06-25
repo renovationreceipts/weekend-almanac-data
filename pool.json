@@ -1745,6 +1745,26 @@
       "end": "2026-07-11",
       "source": "slack",
       "addedAt": "2026-06-25"
+    },
+    {
+      "id": "strawbery-banke-museum-free-july-4th-naturalization-ceremony",
+      "name": "Strawbery Banke Museum — Free July 4th & Naturalization Ceremony",
+      "cat": "Event · Living History",
+      "catKey": "event",
+      "env": "out",
+      "lat": 43.0751306,
+      "lng": -70.7601826,
+      "rating": null,
+      "n": null,
+      "ages": "All ages (3–7+)",
+      "note": "Free admission all day Saturday July 4 at the living history museum. U.S. Naturalization Ceremony 10–11:30 AM (open to public), then tour historic houses & gardens for free. Great 4th of July alternative.",
+      "url": "https://www.strawberybanke.org",
+      "kind": "event",
+      "status": "active",
+      "start": "2026-07-04",
+      "end": "2026-07-04",
+      "source": "slack",
+      "addedAt": "2026-06-25"
     }
   ],
   "sources": [
