@@ -1705,6 +1705,26 @@
       "note": "Annual free family festival at Spaulding High School in Rochester, Saturday July 11, 4–9 PM. FREE kiddie carnival rides for young children, games, food trucks, local vendors, live entertainment, and a fireworks finale at dusk. Rain date: Sunday July 12. ~22 mi from Kensington.",
       "url": "https://www.rochesternh.gov/lilac-family-fun-festival",
       "addedAt": "2026-06-25"
+    },
+    {
+      "id": "concord-market-days-festival-2026-06-25",
+      "name": "Concord Market Days Festival",
+      "cat": "Event · Festival",
+      "catKey": "event",
+      "env": "out",
+      "lat": 43.207178,
+      "lng": -71.537476,
+      "rating": null,
+      "n": null,
+      "ages": "All ages (3–7+)",
+      "note": "Free 3-day street festival on Main St with 150+ vendors, live music on 3 stages, food trucks, and free KidZone on the State House Lawn. Last day Saturday June 27.",
+      "url": "https://www.concordnhmarketdays.com",
+      "kind": "event",
+      "status": "active",
+      "start": "2026-06-25",
+      "end": "2026-06-27",
+      "source": "slack",
+      "addedAt": "2026-06-25"
     }
   ],
   "sources": [
