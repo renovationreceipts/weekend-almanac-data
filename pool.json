@@ -1725,6 +1725,26 @@
       "end": "2026-06-27",
       "source": "slack",
       "addedAt": "2026-06-25"
+    },
+    {
+      "id": "rochester-lilac-family-fun-festival-fireworks-2026-07-11",
+      "name": "Rochester Lilac Family Fun Festival & Fireworks",
+      "cat": "Event · Festival",
+      "catKey": "event",
+      "env": "out",
+      "lat": 43.3050758,
+      "lng": -70.9753978,
+      "rating": null,
+      "n": null,
+      "ages": "All ages (3–7+)",
+      "note": "FREE: kiddie carnival rides, games, food trucks, live entertainment, and fireworks finale. Saturday July 11, 4–9 PM at Spaulding High School (rain date Sunday July 12).",
+      "url": "https://www.rochesternh.net",
+      "kind": "event",
+      "status": "active",
+      "start": "2026-07-11",
+      "end": "2026-07-11",
+      "source": "slack",
+      "addedAt": "2026-06-25"
     }
   ],
   "sources": [
