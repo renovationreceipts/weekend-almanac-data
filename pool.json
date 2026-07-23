@@ -1365,7 +1365,10 @@
       "ageMax": 10,
       "start": "2026-07-18",
       "end": "2026-07-26",
-      "days": ["Sat", "Sun"],
+      "days": [
+        "Sat",
+        "Sun"
+      ],
       "source": "web-discovery",
       "note": "Cider Hill Farm's summer pick-your-own celebration across two weekends (July 18–19 and 25–26). U-pick blueberries and flowers, farm activities, barnyard animals, and the farm store/cafe. Walk-up tickets on-site. ~12 mi south in Amesbury MA.",
       "url": "https://www.ciderhill.com/",
@@ -1388,7 +1391,9 @@
       "ageMax": 99,
       "start": "2026-07-04",
       "end": "2026-08-01",
-      "days": ["Sat"],
+      "days": [
+        "Sat"
+      ],
       "source": "web-discovery",
       "note": "Free Saturday evening concert series on Pleasant Street in downtown Portsmouth, 5:30–8:30 PM (road closed 4–9 PM). July 25: T.J. Wheeler & Hatrack Gallagher; Aug 1 (final): Seacoast Wind Ensemble. BYOC; food and drink nearby. No alcohol on the street.",
       "url": "https://proportsmouth.org/events/summer-in-the-street-2/",
@@ -1455,7 +1460,9 @@
       "ageMax": 99,
       "start": "2026-07-05",
       "end": "2026-08-30",
-      "days": ["Sun"],
+      "days": [
+        "Sun"
+      ],
       "source": "web-discovery",
       "note": "Summer Sunday concert series on the lawn at the Custom House Maritime Museum, 25 Water St, Newburyport — steps from the waterfront. 4–6 PM, walk-up, free or suggested donation. Bring chairs or a blanket. Check for weekly lineup. ~25 mi south.",
       "url": "https://newburyport.com/events-in-newburyport/",
@@ -1478,7 +1485,9 @@
       "ageMax": 99,
       "start": "2026-05-30",
       "end": "2026-10-31",
-      "days": ["Sat"],
+      "days": [
+        "Sat"
+      ],
       "source": "web-discovery",
       "note": "Saturday morning market at 1 Junkins Ave (near the waterfront), Portsmouth. 8 AM–12 PM. Local produce, bread, flowers, cheese, prepared foods. Pair with a Prescott Park walk or Annabelle's ice cream. Free to browse.",
       "url": "https://www.portsmouthfarmersmarket.org/",
@@ -1523,7 +1532,10 @@
       "ageMax": 12,
       "start": "2026-08-01",
       "end": "2026-08-02",
-      "days": ["Sat", "Sun"],
+      "days": [
+        "Sat",
+        "Sun"
+      ],
       "source": "web-discovery",
       "note": "Camp ENCORE! teen musical theatre intensive culminating in Mean Girls JR. at Prescott Park waterfront stage. Sat Aug 1 at 1 PM and Sun Aug 2 at 1 PM. Free/suggested donation — no one turned away. Bring a blanket or low beach chairs.",
       "url": "https://www.prescottpark.org/event/camp-encore",
@@ -1593,6 +1605,26 @@
       "source": "web-discovery",
       "note": "NH's oldest orchard hosts its annual Peach Festival with live bluegrass music 11am–3pm both days (Cedar Mountain Bluegrass Sat; Reunion Hill Sun). PYO peaches, nectarines, and pears. Free admission and parking. Walk-up. ~8 mi from Kensington.",
       "url": "https://www.applecrest.com/festivals-and-happenings/",
+      "addedAt": "2026-07-23"
+    },
+    {
+      "id": "applecrest-farm-blueberry-peach-celebration-2025-08-02",
+      "name": "Applecrest Farm — Blueberry & Peach Celebration",
+      "cat": "Event · Farm Festival",
+      "catKey": "event",
+      "env": "out",
+      "lat": 42.9417199,
+      "lng": -70.8378746,
+      "rating": null,
+      "n": null,
+      "ages": "3–7",
+      "note": "Cedar Mountain Bluegrass 11am–3pm with pick-your-own blueberries. Free admission, walk-up.",
+      "url": "https://www.applecrestfarm.com",
+      "kind": "event",
+      "status": "active",
+      "start": "2025-08-02",
+      "end": "2025-08-02",
+      "source": "slack",
       "addedAt": "2026-07-23"
     }
   ],
