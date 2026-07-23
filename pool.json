@@ -1626,6 +1626,26 @@
       "end": "2025-08-02",
       "source": "slack",
       "addedAt": "2026-07-23"
+    },
+    {
+      "id": "applecrest-farm-annual-peach-festival-2025-08-15",
+      "name": "Applecrest Farm — Annual Peach Festival",
+      "cat": "Event · Farm Festival",
+      "catKey": "event",
+      "env": "out",
+      "lat": 42.9417199,
+      "lng": -70.8378746,
+      "rating": null,
+      "n": null,
+      "ages": "3–7",
+      "note": "Live bluegrass both days 11am–3pm with pick-your-own peaches & nectarines. Free admission, walk-up.",
+      "url": "https://www.applecrestfarm.com",
+      "kind": "event",
+      "status": "active",
+      "start": "2025-08-15",
+      "end": "2025-08-16",
+      "source": "slack",
+      "addedAt": "2026-07-23"
     }
   ],
   "sources": [
