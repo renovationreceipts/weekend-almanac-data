@@ -1,8 +1,8 @@
 {
   "_meta": {
     "generatedFrom": "seed",
-    "lastRun": "2026-10-22",
-    "lastSlackTs": "1792038362.686959",
+    "lastRun": "2026-10-29",
+    "lastSlackTs": "1792642228.348709",
     "note": "Hands-off: everything in items[] is live (no pending state). sources[] are crawled weekly for events. The agent rewrites this each Thursday."
   },
   "items": [
@@ -1197,30 +1197,6 @@
       "addedAt": "2026-07-30"
     },
     {
-      "id": "evt-farmers",
-      "name": "Exeter Farmers Market",
-      "cat": "Event · Market",
-      "catKey": "event",
-      "env": "out",
-      "lat": 42.9852,
-      "lng": -70.9515,
-      "rating": null,
-      "n": null,
-      "kind": "event",
-      "status": "active",
-      "ages": "easy, free",
-      "ageMin": 0,
-      "ageMax": 99,
-      "start": "2026-05-30",
-      "end": "2026-10-29",
-      "days": [
-        "Thu"
-      ],
-      "source": "seed",
-      "note": "Every Thursday 2:30–6 PM (closes 5:30 after Oct 1), May–October at Swasey Parkway. Local produce, food trucks, often live music.",
-      "url": "https://maps.google.com/?q=Swasey+Parkway+Exeter+NH"
-    },
-    {
       "id": "evt-ssc-sensory-hour-2026",
       "name": "Seacoast Science Center — Sensory Friendly Hour",
       "cat": "Event · Sensory-Friendly",
@@ -1266,7 +1242,7 @@
         "Sat"
       ],
       "source": "web-discovery",
-      "note": "Saturday morning market at 1 Junkins Ave (near the waterfront), Portsmouth. 8 AM–12 PM. Local produce, bread, flowers, cheese, prepared foods. Pair with a Prescott Park walk or Annabelle's ice cream. Free to browse.",
+      "note": "Saturday morning market at 1 Junkins Ave (near the waterfront), Portsmouth. 8 AM–12 PM. Local produce, bread, flowers, cheese, prepared foods. Pair with a Prescott Park walk or Annabelle's ice cream. Free to browse. Last market of the season is Oct 31.",
       "url": "https://www.portsmouthfarmersmarket.org/",
       "addedAt": "2026-07-02"
     },
@@ -1292,7 +1268,7 @@
         "Sun"
       ],
       "source": "web-discovery",
-      "note": "Applecrest Farm's fall harvest weekends run every Sat–Sun late August through October. Live bluegrass music 12–4 PM, PYO apples (50+ varieties), cider donuts, and a farm store. Free admission and parking — just pay for what you pick. Walk-up. ~8 mi from Kensington. Peak apple season mid-Sept–Oct.",
+      "note": "Applecrest Farm's fall harvest weekends run every Sat–Sun late August through October. Live bluegrass music 12–4 PM, PYO apples (50+ varieties), cider donuts, and a farm store. Free admission and parking — just pay for what you pick. Walk-up. ~8 mi from Kensington. Final weekend is Oct 31–Nov 1.",
       "url": "https://www.applecrest.com/festivals-and-happenings/",
       "addedAt": "2026-07-30"
     },
@@ -1318,7 +1294,7 @@
         "Sun"
       ],
       "source": "web-discovery",
-      "note": "6-acre corn maze at Coppal House Farm, Lee NH. Open Sat–Sun 10am–5pm (last admission 4:30pm). 2026 theme: Chipmunk — chipmunk-and-acorn shaped maze with trivia mailboxes along the way. Walk-up, paid admission. ~15 mi from Kensington.",
+      "note": "6-acre corn maze at Coppal House Farm, Lee NH. Open Sat–Sun 10am–5pm (last admission 4:30pm). 2026 theme: Chipmunk — chipmunk-and-acorn shaped maze with trivia mailboxes along the way. Walk-up, paid admission. ~15 mi from Kensington. Final weekend Oct 31–Nov 1.",
       "url": "https://www.nhcornmaze.com/",
       "addedAt": "2026-09-10"
     },
@@ -1348,123 +1324,6 @@
       "addedAt": "2026-08-27"
     },
     {
-      "id": "evt-portsmouth-fall-fun-fest-2026",
-      "name": "Portsmouth Fall Family Fun Fest",
-      "cat": "Event · Fall Festival",
-      "catKey": "event",
-      "env": "out",
-      "lat": 43.0759,
-      "lng": -70.7517,
-      "rating": null,
-      "n": null,
-      "kind": "event",
-      "status": "active",
-      "ages": "free, all ages — live music, games, s'mores fire pit, food trucks",
-      "ageMin": 0,
-      "ageMax": 10,
-      "start": "2026-10-25",
-      "end": "2026-10-25",
-      "source": "web-discovery",
-      "note": "6th Annual Portsmouth Fall Family Fun Fest at Prescott Park. Sat Oct 25, 11am–2pm. Free family event with live music, lawn games, a s'mores fire pit, and food trucks. Walk-up. ~18 mi from Kensington.",
-      "url": "https://www.portsmouthnh.gov/recreation/events/fall-family-fun-fest",
-      "addedAt": "2026-09-24"
-    },
-    {
-      "id": "evt-laconia-pumpkin-festival-2026",
-      "name": "Laconia Pumpkin Festival",
-      "cat": "Event · Pumpkin Festival",
-      "catKey": "event",
-      "env": "out",
-      "lat": 43.528,
-      "lng": -71.47,
-      "rating": null,
-      "n": null,
-      "kind": "event",
-      "status": "active",
-      "ages": "pumpkin tower, rides, live music, kids activities — free",
-      "ageMin": 0,
-      "ageMax": 12,
-      "start": "2026-10-24",
-      "end": "2026-10-24",
-      "source": "web-discovery",
-      "note": "Annual Laconia Pumpkin Festival in downtown Laconia. Sat Oct 24, 11am–10pm. Free community fall festival with a massive pumpkin tower display, rides, family activities, food vendors, and live music. Walk-up. A longer drive (~65 mi from Kensington) but a beloved NH tradition.",
-      "url": "https://www.laconianh.gov/471/Special-Events",
-      "addedAt": "2026-09-24"
-    },
-    {
-      "id": "evt-charmingfare-trick-or-treat-2026",
-      "name": "Charmingfare Farm — Kids' Trick or Treat",
-      "cat": "Event · Halloween",
-      "catKey": "event",
-      "env": "out",
-      "lat": 43.0716,
-      "lng": -71.3559,
-      "rating": null,
-      "n": null,
-      "kind": "event",
-      "status": "active",
-      "ages": "costumed trick or treating around the farm with animals — not scary, designed for little kids",
-      "ageMin": 2,
-      "ageMax": 10,
-      "start": "2026-10-17",
-      "end": "2026-10-25",
-      "days": [
-        "Sat",
-        "Sun"
-      ],
-      "source": "web-discovery",
-      "note": "Children's Halloween trick or treat at Charmingfare Farm: Oct 17–18 and Oct 24–25. Costumed kids trick or treat around the farm alongside the animals. Not scary — designed for young children. Paid admission. Walk-up. ~35 mi from Kensington.",
-      "url": "https://www.visitthefarm.com/",
-      "addedAt": "2026-10-01"
-    },
-    {
-      "id": "evt-ghosts-banke-2026",
-      "name": "Ghosts on the Banke — Family Halloween",
-      "cat": "Event · Halloween",
-      "catKey": "event",
-      "env": "out",
-      "lat": 43.0758,
-      "lng": -70.7523,
-      "rating": null,
-      "n": null,
-      "kind": "event",
-      "status": "active",
-      "ages": "sweet spot ages 4–8 — not scary; ghostly tales, pirates, spider web crafts, prize games",
-      "ageMin": 4,
-      "ageMax": 10,
-      "start": "2026-10-17",
-      "end": "2026-10-24",
-      "days": [
-        "Sat"
-      ],
-      "source": "web-discovery",
-      "note": "Ghosts on the Banke at Strawbery Banke Museum, Portsmouth. Oct 16–17 and Oct 23–24, 5–8 PM (arrival slots at 5 or 6 PM). Family Halloween with pirate encounters, fortune teller, ghostly tales, giant spider web crafts, games for prizes, and new historic-figure projections. Designed for ages 4–8; not scary. $17/person (under 1 free). Buy tickets online; also check gate. Also runs Fri evenings. ~18 mi from Kensington.",
-      "url": "https://www.strawberybanke.org/ghosts",
-      "addedAt": "2026-10-01"
-    },
-    {
-      "id": "evt-saco-pumpkin-harvest-2026",
-      "name": "Saco Pumpkin Harvest Festival",
-      "cat": "Event · Fall Festival",
-      "catKey": "event",
-      "env": "out",
-      "lat": 43.5009,
-      "lng": -70.4428,
-      "rating": null,
-      "n": null,
-      "kind": "event",
-      "status": "active",
-      "ages": "pumpkin patch, pony rides, carnival, live music — free and family fun",
-      "ageMin": 2,
-      "ageMax": 10,
-      "start": "2026-10-24",
-      "end": "2026-10-24",
-      "source": "web-discovery",
-      "note": "Saco Main Street's annual Pumpkin Harvest Festival, Sat Oct 24, 11am–3pm at CK Burns School / Dyer Library, Saco ME. Free. Pumpkin patch, pony rides, carnival activities, live music, 70+ local vendors, pie-eating contest, trunk or treat. Walk-up. ~35 mi from Kensington.",
-      "url": "https://sacomainstreet.org/event/pumpkin-harvest-festival-26/",
-      "addedAt": "2026-10-01"
-    },
-    {
       "id": "evt-haunted-overload-day-2026",
       "name": "Haunted Overload — Family Day Walk",
       "cat": "Event · Family Halloween",
@@ -1486,7 +1345,7 @@
         "Sun"
       ],
       "source": "web-discovery",
-      "note": "Haunted Overload's daytime family option at Elwell Farm, Lee NH (~13 mi). Actor-free, nothing to startle — walk the elaborately decorated trail at your own pace, 10am–4pm. A gentler Halloween outing before the scary nighttime version. Check hauntedoverload.com for exact 2026 days and ticket info.",
+      "note": "Haunted Overload's daytime family option at Elwell Farm, Lee NH (~13 mi). Actor-free, nothing to startle — walk the elaborately decorated trail at your own pace, 10am–4pm. A gentler Halloween outing before the scary nighttime version. Final weekend Oct 31–Nov 1. Check hauntedoverload.com for exact days and ticket info.",
       "url": "https://www.hauntedoverload.com/",
       "addedAt": "2026-10-08"
     },
@@ -1512,7 +1371,7 @@
         "Sun"
       ],
       "source": "web-discovery",
-      "note": "Canobie Lake Park's Halloween event, weekends Oct–Oct 31 in Salem NH (~30 mi). Daytime is family-friendly: Pumpkin Palace, petting zoo, Monster Parade. Kids under 13 can wear a 'Monster B'Gone' necklace to skip the scary zones. Evening gets intense for older kids. Buy tickets at canobie.com.",
+      "note": "Canobie Lake Park's Halloween event, weekends Oct–Oct 31 in Salem NH (~30 mi). Daytime is family-friendly: Pumpkin Palace, petting zoo, Monster Parade. Kids under 13 can wear a 'Monster B'Gone' necklace to skip the scary zones. Evening gets intense for older kids. Buy tickets at canobie.com. Final weekend Oct 31–Nov 1.",
       "url": "https://www.canobie.com/",
       "addedAt": "2026-10-08"
     },
@@ -1529,7 +1388,7 @@
       "ages": "free, all ages — walk in the parade in costume, then trick-or-treat at downtown shops",
       "ageMin": 0,
       "ageMax": 10,
-      "note": "Annual Exeter Halloween Parade at Swasey Parkway. Costume contest ~10:30am, parade ~11am, downtown trick-or-treating noon–3pm. Free, no registration. Halloween 2026 falls on a Saturday — confirm final date at exeternh.gov/recreation. ~9 mi from Kensington.",
+      "note": "Annual Exeter Halloween Parade at Swasey Parkway. Costume contest ~10:30am, parade ~11am, downtown trick-or-treating noon–3pm. Free, no registration. ~9 mi from Kensington.",
       "url": "https://www.exeternh.gov/recreation/halloween-parade-costume-contest",
       "kind": "event",
       "status": "active",
@@ -1583,6 +1442,28 @@
       "addedAt": "2026-10-22"
     },
     {
+      "id": "evt-seacoast-artisans-holiday-2026",
+      "name": "Seacoast Artisans 27th Holiday Fine Arts & Craft Show",
+      "cat": "Event · Holiday Market",
+      "catKey": "event",
+      "env": "in",
+      "lat": 43.073,
+      "lng": -70.814,
+      "rating": null,
+      "n": null,
+      "kind": "event",
+      "status": "active",
+      "ages": "holiday browsing atmosphere — festive and manageable for all three",
+      "ageMin": 0,
+      "ageMax": 12,
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "source": "web-discovery",
+      "note": "27th annual Seacoast Artisans Holiday Fine Arts & Craft Show at Great Bay Community College, Portsmouth NH. Sat Nov 14, 10am–4pm. 125+ juried artists and craftspeople; lunch available at the Gather Café on-site. $7 adults; check for child pricing. Walk-up. ~20 mi from Kensington.",
+      "url": "https://www.seacoastartisansshows.com/",
+      "addedAt": "2026-10-29"
+    },
+    {
       "id": "evt-great-ne-holiday-craft-2026",
       "name": "Great New England Holiday Craft & Artisan Show — Seacoast",
       "cat": "Event · Holiday Market",
@@ -1600,7 +1481,7 @@
       "start": "2026-11-21",
       "end": "2026-11-22",
       "source": "web-discovery",
-      "note": "125+ artists, craftspeople, and specialty food vendors at The Rim Sports Complex, Hampton NH (~20 mi). Sat–Sun Nov 21–22. Kids under 14 free; $5 adults. Walk-up. A good first holiday-shopping outing with the kids.",
+      "note": "125+ artists, craftspeople, and specialty food vendors at The Rim Sports Complex, Hampton NH (~20 mi). Sat–Sun Nov 21–22, 10am–4pm. Kids under 14 free; $5 adults. Walk-up. A good first holiday-shopping outing with the kids.",
       "url": "https://www.thecraftmap.com/fair/great-new-england-holiday-craft-artisan-show-seacoast-nh",
       "addedAt": "2026-10-22"
     },
@@ -1623,8 +1504,8 @@
       "end": "2026-12-20",
       "days": ["Sat", "Sun"],
       "source": "web-discovery",
-      "note": "46th Annual Candlelight Stroll at Strawbery Banke, Portsmouth. Three weekends: Dec 4–6, 11–13, 18–20. Costumed re-enactors in 40+ decorated historic buildings, carolers, holiday magic. Sat: 4:30–8:30 PM; Sun: 2–6:30 PM. Adults $35, kids 3–17 $17.50, under 3 free. Tickets sell out — buy at strawberybanke.org. ~18 mi from Kensington.",
-      "url": "https://www.visitnh.gov/things-to-do/events-calendar/candlelight-stroll-1bed6ec17a0c5a7b475d25d412f2eb17",
+      "note": "46th Annual Candlelight Stroll at Strawbery Banke, Portsmouth. Three weekends: Dec 4–6, 11–13, 18–20. Theme: 'Welcome, Neighbor' (250th anniversary). Costumed re-enactors in 40+ decorated historic buildings, carolers, cider shed. Sat 4:30–8:30 PM; Sun 2–6:30 PM. Adults $35, kids 3–17 $17.50, under 3 free. Tickets sell out — buy at strawberybanke.org. No on-site parking; trolley available Sat–Sun. ~18 mi from Kensington.",
+      "url": "https://www.strawberybanke.org/ghosts",
       "addedAt": "2026-10-22"
     }
   ],
